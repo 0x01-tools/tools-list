@@ -61,6 +61,18 @@ https://brutelogic.com.br/blog/cors-enabled-xss/
 https://www.we45.com/blog/3-ways-to-exploit-misconfigured-cross-origin-resource-sharing-cors
 https://portswigger.net/kb/papers/exploitingcorsmisconfigurations.pdf
 
+CSRF Tools
+
+https://github.com/gilbitron/EasyCSRF
+https://github.com/ahsansmir/pinata-csrf-tool
+https://github.com/PaulSec/CSRFT
+https://github.com/0xInfection/XSRFProbe
+https://github.com/tgianko/deemon
+https://github.com/AlecBlance/Csrf-Finder
+https://medium.com/bugbountywriteup/tagged/csrf
+https://www.hackeroyale.com/hacking-websites-using-csrf-attack/
+https://support.portswigger.net/customer/portal/articles/1965674-using-burp-to-test-for-cross-site-request-forgery-csrf-
+
 Cheat Sheets:-
 
 5 in One : https://www.gracefulsecurity.com/cheat-sheets/
