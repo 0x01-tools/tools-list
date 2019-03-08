@@ -1,0 +1,11 @@
+Path Traversal / LFI
+
+https://github.com/PsiqueLabs/dot2moon
+https://github.com/jcesarstef/dotdotslash
+https://github.com/chrispetrou/FDsploit
+https://github.com/bayotop/off-by-slash
+https://github.com/P0cL4bs/Kadimus
+https://github.com/D35m0nd142/LFISuite
+https://github.com/tennc/fuzzdb/tree/master/dict/BURP-PayLoad/LFI
+https://github.com/cyberheartmi9/PayloadsAllTheThings/tree/master/File%20Inclusion%20-%20Path%20Traversal/Intruders
+https://github.com/danielmiessler/SecLists/tree/master/Fuzzing
