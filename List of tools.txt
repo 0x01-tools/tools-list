@@ -9,3 +9,28 @@ https://github.com/D35m0nd142/LFISuite
 https://github.com/tennc/fuzzdb/tree/master/dict/BURP-PayLoad/LFI
 https://github.com/cyberheartmi9/PayloadsAllTheThings/tree/master/File%20Inclusion%20-%20Path%20Traversal/Intruders
 https://github.com/danielmiessler/SecLists/tree/master/Fuzzing
+
+
+Fuzzing & Bruteforcing
+
+https://github.com/xmendez/wfuzz/
+https://github.com/lanjelot/patator
+https://github.com/CoolerVoid/0d1n
+https://github.com/henshin/filebuster
+https://github.com/maurosoria/dirsearch
+https://github.com/1N3/BlackWidow
+https://github.com/henshin/filebuster
+https://github.com/SuprDewd/unfolder
+https://github.com/davidtavarez/weblocator
+https://github.com/blairjames/halligan
+https://github.com/rm1984/DirDigger
+https://github.com/stefanoj3/dirstalk
+
+Cheat Sheets:-
+
+TLS/SSL Vulnerabilities
+SQL Injection Cheat Sheet: MySQL
+SQL Injection Cheat Sheet: MSSQL
+Path Traversal Cheat Sheet: Windows
+Path Traversal Cheat Sheet: Linux
+XXE Cheatsheet – XML External Entity Injection
