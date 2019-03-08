@@ -26,11 +26,24 @@ https://github.com/blairjames/halligan
 https://github.com/rm1984/DirDigger
 https://github.com/stefanoj3/dirstalk
 
+Open Redirect Tools
+
+https://github.com/ak1t4/open-redirect-scanner
+https://github.com/KendoClaw1/Open-Redirection-Scanner
+https://github.com/random-robbie/open-redirect
+https://github.com/clirimemini/OpenRedirectPY
+https://github.com/cujanovic/Open-Redirect-Payloads
+https://github.com/fuzzdb-project/fuzzdb/tree/master/attack/redirect
+https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Open%20Redirect
+
+
 Cheat Sheets:-
 
-TLS/SSL Vulnerabilities
-SQL Injection Cheat Sheet: MySQL
-SQL Injection Cheat Sheet: MSSQL
-Path Traversal Cheat Sheet: Windows
-Path Traversal Cheat Sheet: Linux
-XXE Cheatsheet – XML External Entity Injection
+5 in One : https://www.gracefulsecurity.com/cheat-sheets/
+3 in One : https://pentester.land/cheatsheets
+
+Web Crawler : https://github.com/nanshihui/Scan-T
+
+Super Nmap Easy Scanner : https://github.com/RoberMB/SuperNES
+
+HCon : http://www.hcon.in/downloads.html
