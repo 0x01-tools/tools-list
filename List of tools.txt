@@ -73,6 +73,15 @@ https://medium.com/bugbountywriteup/tagged/csrf
 https://www.hackeroyale.com/hacking-websites-using-csrf-attack/
 https://support.portswigger.net/customer/portal/articles/1965674-using-burp-to-test-for-cross-site-request-forgery-csrf-
 
+Red Teaming
+
+https://github.com/infosecn1nja/Red-Teaming-Toolkit
+https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
+https://medium.com/@adam.toscher/top-five-ways-the-red-team-breached-the-external-perimeter-262f99dc9d17
+https://techbeacon.com/security/modern-red-teaming-21-resources-your-security-team
+https://github.com/topics/redteam
+https://www.peerlyst.com/posts/17-tips-for-a-successful-red-team-nasrumminallah-zeeshan
+
 Cheat Sheets:-
 
 5 in One : https://www.gracefulsecurity.com/cheat-sheets/
