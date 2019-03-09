@@ -92,3 +92,15 @@ Web Crawler : https://github.com/nanshihui/Scan-T
 Super Nmap Easy Scanner : https://github.com/RoberMB/SuperNES
 
 HCon : http://www.hcon.in/downloads.html
+
+
+Tweets
+
+(https://twitter.com/Th3G3nt3lman/status/1104111564632797186)
+inurl:fisheye AND inurl:changelog -site:http://atlassian.com  -site:http://github.com 
+inurl:crucible AND inurl:changelog -site:http://atlassian.com  -site:http://github.com 
+======================================================================================
+
+https://twitter.com/CraigHRowland/status/1103725384711847936
+To find linux malware with image extension
+find / -regex ".*\.\(jpg\|gif\|png\|jpeg\)" -type f -exec file -p '{}' \; | grep ELF | cut -d":" -f1
